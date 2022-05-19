@@ -14,5 +14,6 @@ public class Hajo {
     
     public Hajo(int[] pozicio) {
         this.pozicio = pozicio;
+        pozicio = new int[3];
     }
 }
