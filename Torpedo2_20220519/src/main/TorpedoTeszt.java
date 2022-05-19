@@ -1,11 +1,11 @@
 package main;
 
 public class TorpedoTeszt {
-    public static void main() {
+    public void main() {
         
     }
     
-    public static String tesztLoves(int poz) {
+    public String tesztLoves(int poz) {
         return "";
     }
 }
